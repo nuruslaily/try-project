@@ -1,0 +1,81 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "category": "Makanan",
+      "name": "Nasi Ayam Crispy Hot Spicy",
+      "price": 15000,
+      "description": "Nasi dengan ayam crispy hot spicy",
+      "image": "nasi-ayam-hot-spicy.jpeg"
+    },
+    {
+      "id": 2,
+      "category": "Snack",
+      "name": "Ceker Pedas",
+      "price": 10000,
+      "description": "Ceker dengan kuah yang pedas",
+      "image": "ceker-pedas.jpeg"
+    },
+    {
+      "id": 3,
+      "category": "Makanan",
+      "name": "Nasi Jamur Crispy",
+      "price": 12000,
+      "description": "Nasi seporsi dengan jamur crispy",
+      "image": "nasi-jamur-crispy.jpeg"
+    },
+    {
+      "id": 4,
+      "category": "Makanan",
+      "name": "Nasi Ayam Geprek",
+      "price": 12000,
+      "description": "Nasi seporsi dengan ayam geprek",
+      "image": "nasi-ayam-geprek.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Nasi Usus Crispy",
+      "price": "Rp.12000"
+    },
+    {
+      "id": 6,
+      "category": "Snack",
+      "name": "Jamur Crispy",
+      "price": 8000,
+      "description": "Jamur yang digoreng dengan crispy",
+      "image": "jamur-crispy.jpeg"
+    },
+    {
+      "id": 7,
+      "category": "Makanan",
+      "name": "Nasi Lele Goreng",
+      "price": 15000,
+      "description": "Nasi seporsi dengan lele yang digoreng",
+      "image": "nasi-lele-goreng.jpeg"
+    },
+    {
+      "id": 8,
+      "category": "Snack",
+      "name": "Kol Goreng",
+      "price": 5000,
+      "description": "Kol segar yang digoreng",
+      "image": "kol-goreng.jpeg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "nuruslaily",
+    "email": "nuruslaily88@gmail.com",
+    "password": "Nurus123",
+    "phone": "08816254736",
+    "birth": "08/04/2000",
+    "address": "Jl. Ikan Tombro Timur"
+  }
+}

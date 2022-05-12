@@ -1,0 +1,13 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
